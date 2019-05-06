@@ -1,6 +1,16 @@
 .App {
   text-align: center;
-  font-size: 10em;
+  /* font-size: 10em; */
+  font-size: 20px;
+  padding: 100px;
+}
+
+button {
+  height: 50px;
+  min-width: auto;
+  border-radius: 10%;
+  background-color: greenyellow;
+  font-weight: bold;
 }
 
 .App-logo {
@@ -8,6 +18,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+
 
 .App-header {
   background-color: #282c34;
