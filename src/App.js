@@ -3,14 +3,15 @@ import React, { Component } from 'react';
 // import RandoNumber from './RandoNumber';
 // import Button from './Button';
 // import Button2 from './Button2'
-import BrokenClick from './BrokenClick'
+// import BrokenClick from './BrokenClick';
+import BrokenClick2 from './BrokenClick2';
 import './App.css';
 
 class App extends Component {
   render() {
     return(
       <div className="App">
-        <BrokenClick />
+        <BrokenClick2 />
       </div>
     );
   }
